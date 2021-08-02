@@ -11,3 +11,4 @@ Release: v21.02.0-rc4
 - luci-app-ntf-qos
 - luci-app-upnp
 - luci-app-wol
+- luci-app-smartdns
