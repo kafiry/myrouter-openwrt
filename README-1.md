@@ -6,7 +6,13 @@ Release: v21.02.1
 
 插件列表：
 - luci-app-ddns
-- luci-app-https-dns-proxy
 - luci-app-ntf-qos
 - luci-app-upnp
 - luci-app-wol
+
+RM2100.config:
+- luci-app-https-dns-proxy
+DNScrypt.config:
+- dnscrypt-proxy2
+unbound.config
+- luci-app-unbound
