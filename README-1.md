@@ -12,7 +12,9 @@ Release: v21.02.1
 
 RM2100.config:
 - luci-app-https-dns-proxy
+
 DNScrypt.config:
 - dnscrypt-proxy2
+
 unbound.config
 - luci-app-unbound
